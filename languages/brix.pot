@@ -1,0 +1,2776 @@
+# Copyright (C) 2016 Evolve
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Brix Builder 1.1.2\n"
+"Report-Msgid-Bugs-To: https://www.brixbuilder.com\n"
+"POT-Creation-Date: 2015-07-18 15:36:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Evolve\n"
+"Language-Team: Evolve <info@justevolve.it>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: Italy\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: styles/blocks/accordion/accordion.php:62 styles/blocks/button/button.php:80
+#: styles/blocks/tabs/tabs.php:62
+msgid "100"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:63 styles/blocks/button/button.php:81
+#: styles/blocks/tabs/tabs.php:63
+msgid "200"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:64 styles/blocks/button/button.php:82
+#: styles/blocks/tabs/tabs.php:64
+msgid "300"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:66 styles/blocks/button/button.php:84
+#: styles/blocks/tabs/tabs.php:66
+msgid "500"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:67 styles/blocks/button/button.php:85
+#: styles/blocks/tabs/tabs.php:67
+msgid "600"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:69 styles/blocks/button/button.php:87
+#: styles/blocks/tabs/tabs.php:69
+msgid "800"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:70 styles/blocks/button/button.php:88
+#: styles/blocks/tabs/tabs.php:70
+msgid "900"
+msgstr ""
+
+#: blocks/accordion/accordion_block.php:23
+#: blocks/accordion/accordion_block.php:55
+#: blocks/accordion/accordion_block.php:78
+#: blocks/accordion/accordion_block.php:86 fields/accordion.php:101
+msgid "Accordion"
+msgstr ""
+
+#: blocks/accordion/accordion_block.php:57
+msgid "Display accordion content."
+msgstr ""
+
+#: blocks/accordion/accordion_block.php:58 blocks/blog/blog_block.php:148
+#: blocks/button/button_block.php:67
+#: blocks/feature_box/feature_box_block.php:62
+#: blocks/feature_box/feature_box_block.php:88 blocks/html/html_block.php:94
+#: blocks/icon/icon_block.php:59 blocks/image/image_block.php:124
+#: blocks/list/list_block.php:98 blocks/single_post/single_post_block.php:67
+#: blocks/tabs/tabs_block.php:58 blocks/text/text_block.php:43
+#: blocks/text/text_block.php:69 blocks/widget_area/widget_area_block.php:83
+#: fields/accordion.php:89 fields/tabs.php:93
+#: pro/blocks/counter/counter_block.php:98
+#: pro/blocks/progress_bar/progress_bar_block.php:123
+#: pro/blocks/team/team_block.php:117
+msgid "Content"
+msgstr ""
+
+#: blocks/accordion/accordion_block.php:93
+msgid "Expanded index"
+msgstr ""
+
+#: blocks/accordion/accordion_block.php:94
+msgid "Insert the zero-based index of the toggle to be expanded by default."
+msgstr ""
+
+#: blocks/accordion/accordion_block.php:102
+msgid "Mode"
+msgstr ""
+
+#: blocks/accordion/accordion_block.php:105
+msgid "Accordion (one toggle open at a time)"
+msgstr ""
+
+#: blocks/accordion/accordion_block.php:106
+msgid "Multiple toggles open at a time"
+msgstr ""
+
+#: blocks/accordion/accordion_block.php:125 templates/fields/accordion.php:17
+msgid "Untitled toggle"
+msgstr ""
+
+#: blocks/accordion/accordion_block.php:142
+#: blocks/feature_box/feature_box_block.php:107 blocks/tabs/tabs_block.php:135
+#: includes/block.php:69 includes/block.php:148 styles/includes/column.php:51
+msgid "Style"
+msgstr ""
+
+#: blocks/blog/blog_block.php:30 blocks/blog/blog_block.php:145
+msgid "Blog"
+msgstr ""
+
+#: blocks/blog/blog_block.php:48
+msgid "How many items to load"
+msgstr ""
+
+#: blocks/blog/blog_block.php:55
+msgid "Include from taxonomy"
+msgstr ""
+
+#: blocks/blog/blog_block.php:64
+msgid "Exclude from taxonomy"
+msgstr ""
+
+#: blocks/blog/blog_block.php:73
+msgid "Paginate"
+msgstr ""
+
+#: blocks/blog/blog_block.php:76
+msgid "Do not paginate"
+msgstr ""
+
+#: blocks/blog/blog_block.php:77
+msgid "Regular pagination"
+msgstr ""
+
+#: blocks/blog/blog_block.php:78 blocks/blog/blog_block.php:208
+msgid "Reload block content"
+msgstr ""
+
+#: blocks/blog/blog_block.php:79 blocks/blog/blog_block.php:211
+msgid "Append new content"
+msgstr ""
+
+#: blocks/blog/blog_block.php:147
+msgid "Display a list of blog posts."
+msgstr ""
+
+#: blocks/blog/blog_block.php:189
+msgid "Not paginated"
+msgstr ""
+
+#: blocks/blog/blog_block.php:195 includes/templates.php:369
+#: includes/templates.php:465
+msgid "All"
+msgstr ""
+
+#: blocks/blog/blog_block.php:205
+msgid "Standard pagination"
+msgstr ""
+
+#: blocks/blog/blog_block.php:230
+msgid "From: %s"
+msgstr ""
+
+#: blocks/blog/blog_block.php:248
+msgid "Not from: %s"
+msgstr ""
+
+#: blocks/blog/blog_block.php:253
+msgid "%s posts"
+msgstr ""
+
+#: blocks/blog/templates/blog_block_template.php:33
+msgid "Load more"
+msgstr ""
+
+#: blocks/blog/templates/blog_block_template.php:41
+#: blocks/blog/templates/blog_block_template.php:55
+#: templates/frontend/column.php:68
+msgid "Previous"
+msgstr ""
+
+#: blocks/blog/templates/blog_block_template.php:47
+#: blocks/blog/templates/blog_block_template.php:61
+#: templates/frontend/column.php:69
+msgid "Next"
+msgstr ""
+
+#: blocks/button/button_block.php:23 blocks/button/button_block.php:64
+msgid "Button"
+msgstr ""
+
+#: blocks/button/button_block.php:40 pro/blocks/counter/counter_block.php:76
+#: pro/blocks/progress_bar/progress_bar_block.php:74
+msgid "Label"
+msgstr ""
+
+#: blocks/button/button_block.php:47 blocks/icon/icon_block.php:39
+#: blocks/image/image_block.php:104 fw/includes/link.php:45
+msgid "Link"
+msgstr ""
+
+#: blocks/button/button_block.php:66
+msgid "Add a call to action button."
+msgstr ""
+
+#: blocks/divider/divider_block.php:23 blocks/divider/divider_block.php:53
+msgid "Divider"
+msgstr ""
+
+#: blocks/divider/divider_block.php:55
+msgid "An horizontal spacer element."
+msgstr ""
+
+#: blocks/feature_box/feature_box_block.php:23
+#: blocks/feature_box/feature_box_block.php:85
+msgid "Feature box"
+msgstr ""
+
+#: blocks/feature_box/feature_box_block.php:42
+msgid "Layout"
+msgstr ""
+
+#: blocks/feature_box/feature_box_block.php:55 blocks/icon/icon_block.php:23
+#: blocks/icon/icon_block.php:38 blocks/icon/icon_block.php:56
+#: fw/includes/icons.php:299 includes/helpers.php:311 includes/helpers.php:319
+#: pro/blocks/counter/counter_block.php:58 pro/blocks/list/list_block.php:37
+#: styles/blocks/button/button.php:106
+msgid "Icon"
+msgstr ""
+
+#: blocks/feature_box/feature_box_block.php:87
+msgid "Engaging text boxes with icon."
+msgstr ""
+
+#: blocks/html/html_block.php:23 blocks/html/html_block.php:91
+msgid "HTML"
+msgstr ""
+
+#: blocks/html/html_block.php:40 includes/helpers.php:307
+msgid "Type"
+msgstr ""
+
+#: blocks/html/html_block.php:44 blocks/html/html_block.php:118
+msgid "Code snippet"
+msgstr ""
+
+#: blocks/html/html_block.php:45
+msgid "Template"
+msgstr ""
+
+#: blocks/html/html_block.php:53
+msgid "Code"
+msgstr ""
+
+#: blocks/html/html_block.php:57
+msgid "Code will be output as is. Supports shortcodes, but raw PHP is not allowed."
+msgstr ""
+
+#: blocks/html/html_block.php:67
+msgid "Template path"
+msgstr ""
+
+#: blocks/html/html_block.php:69
+msgid "Relative to the current theme, or its parent."
+msgstr ""
+
+#: blocks/html/html_block.php:93
+msgid "Output HTML markup or import a specific template."
+msgstr ""
+
+#: blocks/html/html_block.php:121
+msgid "Template: <code>%s</code>"
+msgstr ""
+
+#: blocks/icon/icon_block.php:58
+msgid "Display an icon."
+msgstr ""
+
+#: blocks/image/image_block.php:23 blocks/image/image_block.php:54
+#: blocks/image/image_block.php:121 includes/background.php:395
+#: includes/background.php:410 includes/helpers.php:312
+#: includes/helpers.php:340 templates/fields/brix_background.php:70
+msgid "Image"
+msgstr ""
+
+#: blocks/image/image_block.php:41 includes/helpers.php:327
+msgid "Image source"
+msgstr ""
+
+#: blocks/image/image_block.php:45 includes/helpers.php:332
+#: pro/blocks/team/team_block.php:45
+msgid "Media library"
+msgstr ""
+
+#: blocks/image/image_block.php:46 blocks/image/image_block.php:64
+#: includes/helpers.php:333 includes/helpers.php:350
+#: pro/blocks/team/team_block.php:46 pro/blocks/team/team_block.php:54
+msgid "External link"
+msgstr ""
+
+#: blocks/image/image_block.php:74
+msgid "Image alignment"
+msgstr ""
+
+#: blocks/image/image_block.php:77 fields/tabs.php:108
+#: pro/blocks/counter/counter_block.php:43
+#: styles/blocks/accordion/accordion.php:35 styles/blocks/button/button.php:99
+#: styles/blocks/button/button.php:114 styles/blocks/icon/icon.php:17
+#: styles/blocks/list/list.php:42 styles/blocks/list/list.php:62
+#: styles/blocks/tabs/tabs.php:34 styles/blocks/team/team.php:18
+#: templates/fields/brix_spacing.php:46 templates/fields/brix_spacing.php:51
+msgid "Left"
+msgstr ""
+
+#: blocks/image/image_block.php:78 includes/background.php:269
+#: pro/blocks/counter/counter_block.php:44 styles/blocks/button/button.php:100
+#: styles/blocks/icon/icon.php:18 styles/blocks/list/list.php:43
+#: styles/blocks/tabs/tabs.php:35 styles/blocks/team/team.php:19
+msgid "Center"
+msgstr ""
+
+#: blocks/image/image_block.php:79 fields/tabs.php:109
+#: pro/blocks/counter/counter_block.php:45
+#: styles/blocks/accordion/accordion.php:36 styles/blocks/button/button.php:101
+#: styles/blocks/button/button.php:115 styles/blocks/icon/icon.php:19
+#: styles/blocks/list/list.php:44 styles/blocks/list/list.php:63
+#: styles/blocks/tabs/tabs.php:36 styles/blocks/team/team.php:20
+#: templates/fields/brix_spacing.php:44 templates/fields/brix_spacing.php:49
+msgid "Right"
+msgstr ""
+
+#: blocks/image/image_block.php:87
+msgid "Display image caption"
+msgstr ""
+
+#: blocks/image/image_block.php:96
+msgid "Image caption"
+msgstr ""
+
+#: blocks/image/image_block.php:123
+msgid "Upload image and apply effects."
+msgstr ""
+
+#: blocks/list/list_block.php:23 blocks/list/list_block.php:95
+msgid "List"
+msgstr ""
+
+#: blocks/list/list_block.php:40
+msgid "Master icon"
+msgstr ""
+
+#: blocks/list/list_block.php:45
+msgid "Simple list"
+msgstr ""
+
+#: blocks/list/list_block.php:50
+msgid "List type"
+msgstr ""
+
+#: blocks/list/list_block.php:60
+msgid "Elements"
+msgstr ""
+
+#: blocks/list/list_block.php:69 pro/blocks/list/list_block.php:14
+msgid "List elements"
+msgstr ""
+
+#: blocks/list/list_block.php:97
+msgid "Display unordered list with icons."
+msgstr ""
+
+#: blocks/list/list_block.php:116 fw/includes/icons.php:229
+#: includes/background.php:161
+msgid "Size"
+msgstr ""
+
+#: blocks/single_post/single_post_block.php:23
+#: blocks/single_post/single_post_block.php:40
+#: blocks/single_post/single_post_block.php:64
+msgid "Post"
+msgstr ""
+
+#: blocks/single_post/single_post_block.php:66
+msgid "Display a single blog post."
+msgstr ""
+
+#: blocks/tabs/tabs_block.php:23 blocks/tabs/tabs_block.php:55
+#: blocks/tabs/tabs_block.php:78 blocks/tabs/tabs_block.php:97
+msgid "Tabs"
+msgstr ""
+
+#: blocks/tabs/tabs_block.php:57
+msgid "Display tabbed content."
+msgstr ""
+
+#: blocks/tabs/tabs_block.php:85
+msgid "Orientation"
+msgstr ""
+
+#: blocks/tabs/tabs_block.php:88
+msgid "Horizontal"
+msgstr ""
+
+#: blocks/tabs/tabs_block.php:89
+msgid "Vertical"
+msgstr ""
+
+#: blocks/tabs/tabs_block.php:116
+#: blocks/tabs/templates/tabs_block_template.php:26
+#: templates/fields/tabs.php:22
+msgid "Untitled tab"
+msgstr ""
+
+#: blocks/text/text_block.php:23 blocks/text/text_block.php:66 fw/fw.php:144
+#: pro/blocks/list/list_block.php:27
+msgid "Text"
+msgstr ""
+
+#: blocks/text/text_block.php:68
+msgid "A rich text area that supports embeds and shortcodes."
+msgstr ""
+
+#: blocks/widget_area/widget_area_block.php:23
+#: blocks/widget_area/widget_area_block.php:40
+#: blocks/widget_area/widget_area_block.php:80
+msgid "Widget area"
+msgstr ""
+
+#: blocks/widget_area/widget_area_block.php:82
+msgid "Display contents from a registered widget area."
+msgstr ""
+
+#: blocks/widget_area/widget_area_block.php:104
+msgid "Please define a widget area"
+msgstr ""
+
+#: blocks/widget_area/widget_area_block.php:115
+msgid "containing %s widget"
+msgid_plural "containing %s widgets"
+msgstr[0] ""
+msgstr[1] ""
+
+#: brix.php:578
+msgid "Layout builder"
+msgstr ""
+
+#: brix.php:596
+msgid "Enter a name for the template:"
+msgstr ""
+
+#: brix.php:597
+msgid "You're about to apply the selected template. Are you sure?"
+msgstr ""
+
+#: brix.php:598
+msgid "Deleted templates cannot be recovered. Are you sure?"
+msgstr ""
+
+#: brix.php:600
+msgid "As large as the page content"
+msgstr ""
+
+#: brix.php:601
+msgid "Stretched container with centered content"
+msgstr ""
+
+#: brix.php:602
+msgid "Stretched container and content"
+msgstr ""
+
+#: brix.php:603
+msgid "Hidden Section"
+msgstr ""
+
+#: brix.php:604 styles/blocks/button/button.php:122
+msgid "Background color"
+msgstr ""
+
+#: brix.php:605
+msgid "Background gradient"
+msgstr ""
+
+#: brix.php:606
+msgid "Background image"
+msgstr ""
+
+#: brix.php:607
+msgid "Background video"
+msgstr ""
+
+#: brix.php:608
+msgid "Column"
+msgstr ""
+
+#: brix.php:609
+msgid "Row"
+msgstr ""
+
+#: brix.php:610 pro/advanced_tab.php:62 pro/advanced_tab.php:100
+msgid "Section"
+msgstr ""
+
+#: brix.php:613
+msgid "Select a breakpoint&hellip;"
+msgstr ""
+
+#: brix.php:615
+msgid "Edit with %s"
+msgstr ""
+
+#: brix.php:618
+msgid "Back to Editor"
+msgstr ""
+
+#: brix.php:619
+msgid "All columns are equally tall"
+msgstr ""
+
+#: brix.php:620
+msgid "Choose the vertical alignment for the content inside each colum."
+msgstr ""
+
+#: brix.php:886 brix.php:889 includes/templates.php:343
+msgid "Templates manager"
+msgstr ""
+
+#: brix.php:893 brix.php:896
+msgid "Save template"
+msgstr ""
+
+#: brix.php:900 brix.php:903
+msgid "Empty page contents"
+msgstr ""
+
+#: brix.php:907 brix.php:908
+msgid "Toggle full screen"
+msgstr ""
+
+#: brix.php:912 brix.php:913
+msgid "Redo"
+msgstr ""
+
+#: brix.php:917 brix.php:918
+msgid "Undo"
+msgstr ""
+
+#: brix.php:932
+msgid "Welcome to"
+msgstr ""
+
+#: brix.php:933
+msgid "your page actually doesn’t have content yet."
+msgstr ""
+
+#: brix.php:939
+msgid "Start by adding a"
+msgstr ""
+
+#: brix.php:940
+msgid "New Section"
+msgstr ""
+
+#: brix.php:944 brix.php:958
+msgid "or"
+msgstr ""
+
+#: brix.php:947 brix.php:959
+msgid "Load a template"
+msgstr ""
+
+#: brix.php:960
+msgid "Some of the available page layouts"
+msgstr ""
+
+#: brix.php:974
+msgid "View all templates"
+msgstr ""
+
+#: brix.php:983 brix.php:984 templates/admin/section.php:201
+#: templates/admin/section.php:202
+msgid "Add section here"
+msgstr ""
+
+#: brix.php:1298
+msgid "Changelog"
+msgstr ""
+
+#: brix.php:1328
+msgid "Configuration"
+msgstr ""
+
+#: brix.php:1332 includes/pages/docs.php:25
+msgid "Documentation"
+msgstr ""
+
+#: brix.php:1344
+msgid "v. %s"
+msgstr ""
+
+#: fields/accordion.php:77 fields/brix_breakpoints.php:76 fields/tabs.php:81
+msgid "Options"
+msgstr ""
+
+#: fields/accordion.php:81 fields/tabs.php:85
+msgid "Title"
+msgstr ""
+
+#: fields/accordion.php:96 fields/tabs.php:100
+msgid "Decoration"
+msgstr ""
+
+#: fields/brix_breakpoints.php:81
+msgid "The human readable name of the breakpoint; be brief yet descriptive."
+msgstr ""
+
+#: fields/brix_breakpoints.php:90
+msgid "Breakpoint category, doesn't affect the display."
+msgstr ""
+
+#: fields/brix_breakpoints.php:94
+msgid "Desktop"
+msgstr ""
+
+#: fields/brix_breakpoints.php:95
+msgid "Tablet"
+msgstr ""
+
+#: fields/brix_breakpoints.php:96
+msgid "Mobile"
+msgstr ""
+
+#: fields/brix_breakpoints.php:104
+msgid "Learn more about <a href=\"%s\">CSS Media Queries</a>."
+msgstr ""
+
+#: fields/brix_breakpoints.php:116 includes/options.php:106
+msgid ""
+"The gutter is the <strong>horizontal</strong> space between columns. Please "
+"note that it is not recommended to express the gutter value in percentage."
+msgstr ""
+
+#: fields/brix_breakpoints.php:122 includes/options.php:113
+msgid "The baseline is the <strong>vertical</strong> space between rows."
+msgstr ""
+
+#: fields/brix_breakpoints.php:128 fields/brix_breakpoints.php:145
+msgid "Breakpoint"
+msgstr ""
+
+#: fields/tabs.php:105 styles/blocks/accordion/accordion.php:32
+#: styles/blocks/button/button.php:111 styles/blocks/list/list.php:59
+msgid "Icon position"
+msgstr ""
+
+#: fields/tabs.php:110 includes/section.php:79
+#: templates/fields/brix_spacing.php:43 templates/fields/brix_spacing.php:48
+msgid "Top"
+msgstr ""
+
+#: fields/tabs.php:118
+msgid "Tab"
+msgstr ""
+
+#: fw/classes/core/brix_field.php:546 fw/classes/core/brix_field.php:701
+msgid "Add"
+msgstr ""
+
+#: fw/classes/core/brix_field.php:609 fw/classes/core/brix_field.php:613
+#: includes/pages/welcome.php:96
+msgid "Need help?"
+msgstr ""
+
+#: fw/classes/core/brix_field.php:629 fw/templates/fields/attachment.php:104
+#: fw/templates/fields/partials/image_upload.php:100
+msgid "Remove all"
+msgstr ""
+
+#: fw/classes/core/brix_fields_container.php:197 pro/admin.php:47
+msgid "Save"
+msgstr ""
+
+#: fw/classes/core/brix_media_manager.php:98
+msgid "Full size"
+msgstr ""
+
+#: fw/classes/core/brix_media_manager.php:104
+#: styles/blocks/button/button.php:43
+#: styles/blocks/feature_box/feature_box.php:43 styles/blocks/list/list.php:21
+#: styles/blocks/progress_bar/progress_bar.php:21
+msgid "Large"
+msgstr ""
+
+#: fw/classes/core/brix_media_manager.php:110
+msgid "Medium"
+msgstr ""
+
+#: fw/classes/core/brix_media_manager.php:116
+msgid "Thumbnail"
+msgstr ""
+
+#: fw/classes/core/brix_simple_modal.php:40
+#: fw/classes/core/fields_containers/brix_modal.php:60
+#: templates/admin/row.php:40 templates/admin/row.php:74
+msgid "OK"
+msgstr ""
+
+#: fw/classes/core/fields/brix_attachment_field.php:107
+#: fw/classes/core/fields/brix_image_field.php:89
+#: fw/templates/fields/attachment.php:63
+#: fw/templates/fields/partials/image_upload.php:49
+#: fw/templates/fields/partials/image_upload.php:62
+msgid "Remove"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:66
+msgid "Sunday"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:67
+msgid "Monday"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:68
+msgid "Tuesday"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:69
+msgid "Wednesday"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:70
+msgid "Thursday"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:71
+msgid "Friday"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:72
+msgid "Saturday"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:84
+msgid "January"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:85
+msgid "February"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:86
+msgid "March"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:87
+msgid "April"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:88
+#: fw/classes/core/fields/brix_date_field.php:102
+msgid "May"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:89
+msgid "June"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:90
+msgid "July"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:91
+msgid "August"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:92
+msgid "September"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:93
+msgid "October"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:94
+msgid "November"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:95
+msgid "December"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:98
+msgid "Jan"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:99
+msgid "Feb"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:100
+msgid "Mar"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:101
+msgid "Apr"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:103
+msgid "Jun"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:104
+msgid "Jul"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:105
+msgid "Aug"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:106
+msgid "Sep"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:107
+msgid "Oct"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:108
+msgid "Nov"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:109
+msgid "Dec"
+msgstr ""
+
+#: fw/classes/core/fields_containers/brix_admin_page.php:416
+msgid "All saved!"
+msgstr ""
+
+#: fw/classes/core/fields_containers/brix_modal.php:54
+#: fw/includes/icons.php:217 fw/templates/fields/attachment.php:76
+#: fw/templates/fields/partials/image_upload.php:71
+#: templates/admin/block.php:48 templates/admin/js/block.php:8
+msgid "Edit"
+msgstr ""
+
+#: fw/fw.php:145
+msgid "Visual"
+msgstr ""
+
+#: fw/fw.php:146
+msgid "Add Media"
+msgstr ""
+
+#: fw/fw.php:150
+msgid "Insert a name for the preset"
+msgstr ""
+
+#: fw/fw.php:153
+msgid "Insert this URL"
+msgstr ""
+
+#: fw/includes/admin/fields.php:384
+msgid "Presets"
+msgstr ""
+
+#: fw/includes/color.php:256
+msgid "User-defined presets"
+msgstr ""
+
+#: fw/includes/color.php:266
+msgid "Delete preset"
+msgstr ""
+
+#: fw/includes/color.php:271
+msgid "You haven't saved any color presets yet!"
+msgstr ""
+
+#: fw/includes/color.php:276
+msgid "Default presets"
+msgstr ""
+
+#: fw/includes/color.php:296
+msgid "Color presets"
+msgstr ""
+
+#: fw/includes/icons.php:196
+msgid "Start to search an icon or choose one from the sets below"
+msgstr ""
+
+#: fw/includes/icons.php:224 includes/background.php:45
+#: includes/background.php:380 includes/background.php:394
+#: includes/background.php:409
+#: pro/blocks/progress_bar/progress_bar_block.php:96
+#: styles/blocks/divider/divider.php:39 templates/fields/brix_background.php:60
+msgid "Color"
+msgstr ""
+
+#: fw/includes/link.php:103
+msgid "Open in"
+msgstr ""
+
+#: fw/includes/link.php:107 includes/helpers.php:266
+msgid "Same tab"
+msgstr ""
+
+#: fw/includes/link.php:108 includes/helpers.php:267
+msgid "New tab"
+msgstr ""
+
+#: fw/includes/link.php:117 includes/helpers.php:273
+msgid "Rel attribute"
+msgstr ""
+
+#: fw/includes/link.php:123 includes/helpers.php:278
+msgid "Title attribute"
+msgstr ""
+
+#: fw/includes/link.php:129
+msgid "Class attribute"
+msgstr ""
+
+#: fw/templates/fields/attachment.php:89
+#: fw/templates/fields/partials/image_upload.php:85
+msgid "Upload"
+msgstr ""
+
+#: fw/templates/fields/image.php:98 includes/background.php:136
+#: includes/background.php:323
+msgid "Image size"
+msgstr ""
+
+#: includes/background.php:48
+msgid "Location"
+msgstr ""
+
+#: includes/background.php:90
+msgid "Direction"
+msgstr ""
+
+#: includes/background.php:97
+msgid "Reverse"
+msgstr ""
+
+#: includes/background.php:165 includes/background.php:424
+#: includes/background.php:439 includes/block.php:46
+#: styles/blocks/accordion/accordion.php:11 styles/blocks/button/button.php:40
+#: styles/blocks/feature_box/feature_box.php:41
+#: styles/blocks/feature_box/feature_box.php:132 styles/blocks/list/list.php:18
+#: styles/blocks/progress_bar/progress_bar.php:19
+#: styles/blocks/tabs/tabs.php:11 styles/blocks/team/team.php:32
+msgid "Default"
+msgstr ""
+
+#: includes/background.php:169
+msgid "As large as possible"
+msgstr ""
+
+#: includes/background.php:170
+msgid "Cover"
+msgstr ""
+
+#: includes/background.php:173
+msgid "Fit inside"
+msgstr ""
+
+#: includes/background.php:174
+msgid "Contain"
+msgstr ""
+
+#: includes/background.php:204 includes/background.php:212
+msgid "Repeat"
+msgstr ""
+
+#: includes/background.php:208
+msgid "No repeat"
+msgstr ""
+
+#: includes/background.php:216
+msgid "Repeat horizontally"
+msgstr ""
+
+#: includes/background.php:220
+msgid "Repeat vertically"
+msgstr ""
+
+#: includes/background.php:254 pro/background.php:75
+msgid "Motion"
+msgstr ""
+
+#: includes/background.php:266 includes/column.php:182
+msgid "Position"
+msgstr ""
+
+#: includes/background.php:270
+msgid "Top left"
+msgstr ""
+
+#: includes/background.php:271
+msgid "Top right"
+msgstr ""
+
+#: includes/background.php:272
+msgid "Bottom right"
+msgstr ""
+
+#: includes/background.php:273
+msgid "Bottom left"
+msgstr ""
+
+#: includes/background.php:274
+msgid "Center left"
+msgstr ""
+
+#: includes/background.php:275
+msgid "Center right"
+msgstr ""
+
+#: includes/background.php:276
+msgid "Top center"
+msgstr ""
+
+#: includes/background.php:277
+msgid "Bottom center"
+msgstr ""
+
+#: includes/background.php:339
+msgid "Video URL"
+msgstr ""
+
+#: includes/background.php:353
+msgid "Disable video on mobile devices"
+msgstr ""
+
+#: includes/background.php:425
+msgid "Fixed"
+msgstr ""
+
+#: includes/block.php:13
+msgid "Select content block"
+msgstr ""
+
+#: includes/block.php:17
+msgid "Search&hellip;"
+msgstr ""
+
+#: includes/block.php:141
+msgid "General"
+msgstr ""
+
+#: includes/block.php:155 includes/block.php:164 includes/block.php:174
+#: includes/column.php:20 includes/column.php:29 includes/column.php:215
+#: includes/section.php:92 includes/section.php:101 includes/section.php:127
+msgid "Spacing"
+msgstr ""
+
+#: includes/block.php:183 includes/column.php:221 includes/section.php:133
+#: styles/includes/helpers.php:15
+msgid "Effects"
+msgstr ""
+
+#: includes/block.php:192
+msgid "Back"
+msgstr ""
+
+#: includes/column.php:39
+msgid "1 element"
+msgstr ""
+
+#: includes/column.php:40
+msgid "2 elements"
+msgstr ""
+
+#: includes/column.php:41
+msgid "3 elements"
+msgstr ""
+
+#: includes/column.php:42
+msgid "4 elements"
+msgstr ""
+
+#: includes/column.php:43
+msgid "5 elements"
+msgstr ""
+
+#: includes/column.php:44
+msgid "6 elements"
+msgstr ""
+
+#: includes/column.php:48
+msgid "Disable"
+msgstr ""
+
+#: includes/column.php:60
+msgid ""
+"The number of items shown at a time, according to a specific media query. "
+"You can define custom media queries <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/column.php:67
+msgid "Show as carousel"
+msgstr ""
+
+#: includes/column.php:68
+msgid "Blocks contained in this column will become the elements of the carousel."
+msgstr ""
+
+#: includes/column.php:76
+msgid "Module"
+msgstr ""
+
+#: includes/column.php:77
+msgid "The number of items shown at a time."
+msgstr ""
+
+#: includes/column.php:86 pro/row-editing.php:10 pro/row-editing.php:25
+#: templates/admin/row.php:72
+msgid "Responsive"
+msgstr ""
+
+#: includes/column.php:93
+msgid "Media query"
+msgstr ""
+
+#: includes/column.php:105
+msgid "Items"
+msgstr ""
+
+#: includes/column.php:123
+msgid "Infinite loop"
+msgstr ""
+
+#: includes/column.php:125
+msgid ""
+"If checked, at the end of items, wrap-around to the other end for infinite "
+"scrolling."
+msgstr ""
+
+#: includes/column.php:132
+msgid "Autoplay"
+msgstr ""
+
+#: includes/column.php:134
+msgid ""
+"Expressed in milliseconds. If not empty, the carousel will autoplay and "
+"advance at the specified rate."
+msgstr ""
+
+#: includes/column.php:141
+msgid "Fluid height"
+msgstr ""
+
+#: includes/column.php:142
+msgid ""
+"By enabling fluid height, the carousel will resize itself according to the "
+"height of the items."
+msgstr ""
+
+#: includes/column.php:150
+msgid "Navigation arrows"
+msgstr ""
+
+#: includes/column.php:158
+msgid "Display"
+msgstr ""
+
+#: includes/column.php:164 includes/column.php:188
+msgid "Do not display"
+msgstr ""
+
+#: includes/column.php:165 includes/column.php:189
+msgid "Below the carousel"
+msgstr ""
+
+#: includes/column.php:166 includes/column.php:190
+msgid "Above the carousel"
+msgstr ""
+
+#: includes/column.php:167
+msgid "Inside carousel"
+msgstr ""
+
+#: includes/column.php:174
+msgid "Bullets navigation"
+msgstr ""
+
+#: includes/column.php:203 includes/section.php:115
+msgid "Appearance"
+msgstr ""
+
+#: includes/column.php:209 includes/helpers.php:122 includes/section.php:121
+msgid "Background"
+msgstr ""
+
+#: includes/column.php:227
+msgid "Carousel"
+msgstr ""
+
+#: includes/column.php:235 templates/admin/column.php:50
+#: templates/admin/js/column.php:9
+msgid "Edit column"
+msgstr ""
+
+#: includes/dummy-templates.php:14
+msgid "Landing page"
+msgstr ""
+
+#: includes/dummy-templates.php:15
+msgid "Stripe based landing page with different column configurations."
+msgstr ""
+
+#: includes/dummy-templates.php:19
+msgid "About"
+msgstr ""
+
+#: includes/dummy-templates.php:20
+msgid "Stripe based page with services, team and clients sections."
+msgstr ""
+
+#: includes/dummy-templates.php:26
+msgid "Feature 1"
+msgstr ""
+
+#: includes/dummy-templates.php:27
+msgid "Intro text plus three columns section with feature boxes."
+msgstr ""
+
+#: includes/dummy-templates.php:31
+msgid "Feature 2"
+msgstr ""
+
+#: includes/dummy-templates.php:32
+msgid ""
+"Feature page with two equal height blocks, with an image and a call to "
+"action button."
+msgstr ""
+
+#: includes/dummy-templates.php:36
+msgid "Feature 3"
+msgstr ""
+
+#: includes/dummy-templates.php:37
+msgid "Heading with a modular four columns for two rows feature boxes grid."
+msgstr ""
+
+#: includes/dummy-templates.php:41
+msgid "Feature 4"
+msgstr ""
+
+#: includes/dummy-templates.php:42
+msgid "Heading with an image on top and two rows with feature boxes."
+msgstr ""
+
+#: includes/dummy-templates.php:48
+msgid "Promo 1"
+msgstr ""
+
+#: includes/dummy-templates.php:49
+msgid "Simple two columns text and call to action plus image section."
+msgstr ""
+
+#: includes/dummy-templates.php:53
+msgid "Promo 2"
+msgstr ""
+
+#: includes/dummy-templates.php:54
+msgid "Flat colored section with centered heding and a big image underneath."
+msgstr ""
+
+#: includes/dummy-templates.php:58
+msgid "Promo 3"
+msgstr ""
+
+#: includes/dummy-templates.php:59
+msgid "Flat colored section with centered image, text and a call to action button."
+msgstr ""
+
+#: includes/dummy-templates.php:65
+msgid "Content 1"
+msgstr ""
+
+#: includes/dummy-templates.php:66
+msgid ""
+"Two columns row with text and an image, a diver section and a three columns "
+"layout with text blocks."
+msgstr ""
+
+#: includes/dummy-templates.php:70
+msgid "Content 2"
+msgstr ""
+
+#: includes/dummy-templates.php:71
+msgid ""
+"Heading with two columns text and a section with a big image and three text "
+"block rows on a side."
+msgstr ""
+
+#: includes/dummy-templates.php:75
+msgid "Content 3"
+msgstr ""
+
+#: includes/dummy-templates.php:76
+msgid ""
+"Simple example of a frequently asked questions section made with the "
+"accordion block."
+msgstr ""
+
+#: includes/dummy-templates.php:80
+msgid "Content 4"
+msgstr ""
+
+#: includes/dummy-templates.php:81
+msgid "Simple descriptive section with a side flat colored section."
+msgstr ""
+
+#: includes/dummy-templates.php:87
+msgid "Testimonial 1"
+msgstr ""
+
+#: includes/dummy-templates.php:88
+msgid "Three rows testimonial section made with the feature box block."
+msgstr ""
+
+#: includes/dummy-templates.php:92
+msgid "Testimonial 2"
+msgstr ""
+
+#: includes/dummy-templates.php:93
+msgid ""
+"Example of a checkered testimonial section made with the image and the text "
+"blocks."
+msgstr ""
+
+#: includes/dummy-templates.php:97
+msgid "Testimonial 3"
+msgstr ""
+
+#: includes/dummy-templates.php:98
+msgid "Three columns testimonial section made with the team member block."
+msgstr ""
+
+#: includes/dummy-templates.php:104
+msgid "Team 1"
+msgstr ""
+
+#: includes/dummy-templates.php:105
+msgid "Big heading and a three columns carousel team section."
+msgstr ""
+
+#: includes/helpers.php:141
+msgid "Color and image"
+msgstr ""
+
+#: includes/helpers.php:153 templates/fields/brix_video_background.php:32
+msgid "Video"
+msgstr ""
+
+#: includes/helpers.php:254
+msgid "URL"
+msgstr ""
+
+#: includes/helpers.php:262
+msgid "Open in..."
+msgstr ""
+
+#: includes/helpers.php:302
+msgid ""
+"A decorative element that can either be an icon or an image from the Media "
+"Library or an external source."
+msgstr ""
+
+#: includes/helpers.php:351 pro/blocks/team/team_block.php:55
+msgid "Specify the full URL to the image."
+msgstr ""
+
+#: includes/helpers.php:360 includes/section.php:40
+msgid "Width"
+msgstr ""
+
+#: includes/helpers.php:361
+msgid "The desired image width, expressed in pixels."
+msgstr ""
+
+#: includes/helpers.php:369 styles/blocks/divider/divider.php:30
+msgid "Height"
+msgstr ""
+
+#: includes/helpers.php:370
+msgid "The desired image height, expressed in pixels."
+msgstr ""
+
+#: includes/install/steps/step-0-intro.php:3
+msgid "Welcome to Brix!"
+msgstr ""
+
+#: includes/install/steps/step-0-intro.php:4
+msgid "This tutorial is designed to get you up and running setting up the plugin."
+msgstr ""
+
+#: includes/install/steps/step-0-intro.php:8
+msgid "Let's get started!"
+msgstr ""
+
+#: includes/install/steps/step-0-intro.php:9
+msgid "No, thanks, skip the setup!"
+msgstr ""
+
+#: includes/install/steps/step-1-required-plugins.php:2
+msgid "Required plugin"
+msgstr ""
+
+#: includes/install/steps/step-1-required-plugins.php:3
+msgid ""
+"The Evolve Framework is required in order for Brix to work properly. "
+"Install it before continuing with the install procedure and make sure it is "
+"always up to date!"
+msgstr ""
+
+#: includes/install/steps/step-1-required-plugins.php:14
+msgid ""
+"This plugin is the engine that powers Brix and its functionality, from "
+"options to frontend display. Evolve Framework offers several development "
+"tools and is regularly updated to provide enhancements, new features and "
+"cover security and perfomance issues. It is freely available on <a "
+"href=\"http://justevolve.github.io/evolve-framework/\">Github</a>."
+msgstr ""
+
+#: includes/install/steps/step-2-stay-up-to-date.php:2
+#: pro/includes/pages/registration.php:38
+msgid "Stay up to date"
+msgstr ""
+
+#: includes/install/steps/step-2-stay-up-to-date.php:3
+#: pro/includes/pages/registration.php:39
+msgid ""
+"Brix is updated regularly, bringing in new features, providing security "
+"enhancements, fixing bugs, and generally be compatible with the latest and "
+"greatest WordPress version available."
+msgstr ""
+
+#: includes/install/steps/step-2-stay-up-to-date.php:9
+#: pro/includes/pages/registration.php:40
+msgid ""
+"Enable the automatic update system by inserting your <strong>Purchase "
+"Code</strong> and <strong>email</strong>."
+msgstr ""
+
+#: includes/install/steps/step-2-stay-up-to-date.php:10
+#: pro/includes/pages/registration.php:41
+msgid ""
+"You are entitled to Brix updates if you have a valid support account over "
+"at <a href=\"https://justevolve.it\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Evolve Shop</a>. If your support account expires, you can "
+"renew your plan with additional months of support, re-gaining the ability "
+"to download updates."
+msgstr ""
+
+#: includes/install/steps/step-3-get-started.php:2
+msgid "Get started"
+msgstr ""
+
+#: includes/install/steps/step-3-get-started.php:3
+msgid "Now you are ready to create your first page with Brix!"
+msgstr ""
+
+#: includes/install/steps/step-3-get-started.php:8
+msgid "Start"
+msgstr ""
+
+#: includes/install/steps/step-3-get-started.php:17
+msgid "A better theme integration"
+msgstr ""
+
+#: includes/install/steps/step-3-get-started.php:18
+msgid "Do you need to integrate Brix with your theme grid?"
+msgstr ""
+
+#: includes/install/steps/step-3-get-started.php:19
+msgid ""
+"You can quickly change the grid width, gutter and the vertical spacing to "
+"fit your theme design."
+msgstr ""
+
+#: includes/install/steps/step-3-get-started.php:23
+msgid "Brix is responsive!"
+msgstr ""
+
+#: includes/install/steps/step-3-get-started.php:24
+msgid ""
+"From the main options you can change in a matter of seconds how Brix will "
+"adapt to different devices by using the built-in media queries or create "
+"your custom ones."
+msgstr ""
+
+#: includes/install/steps/step-3-get-started.php:28
+msgid "Integration options"
+msgstr ""
+
+#: includes/install/steps/step-3-get-started.php:35
+msgid "Close"
+msgstr ""
+
+#: includes/options.php:37 includes/options.php:53
+msgid "Post types"
+msgstr ""
+
+#: includes/options.php:45
+msgid ""
+"Brix can be activated on any Post Type declared by any plugin you might "
+"have installed, but keep in mind that Brix will only be displayed in Post "
+"Types that use the <code>the_content</code> WordPress function on frontend."
+msgstr ""
+
+#: includes/options.php:55
+msgid "Select the content types for which Brix should be enabled."
+msgstr ""
+
+#: includes/options.php:86
+msgid "Global options"
+msgstr ""
+
+#: includes/options.php:90
+msgid "Spacing & dimensions"
+msgstr ""
+
+#: includes/options.php:98
+msgid "Container width"
+msgstr ""
+
+#: includes/options.php:99
+msgid ""
+"This is the width that's going to be used by the content generated with "
+"Brix."
+msgstr ""
+
+#: includes/options.php:105
+msgid "Gutter"
+msgstr ""
+
+#: includes/options.php:112
+msgid "Baseline"
+msgstr ""
+
+#: includes/options.php:119 pro/background.php:154
+msgid "Breakpoints"
+msgstr ""
+
+#: includes/options.php:120
+msgid ""
+"Use these options to define additional responsive breakpoints and quickly "
+"select under which one the layout becomes fluid."
+msgstr ""
+
+#: includes/options.php:341 includes/pages/welcome.php:88
+msgid "Docs"
+msgstr ""
+
+#: includes/options.php:346 pro/admin.php:219
+msgid "Support"
+msgstr ""
+
+#: includes/pages/docs.php:29
+msgid ""
+"The documentation is updated regularly and it is only available from your "
+"dashboard over at <a href=\"%s\" target=\"_blank\" rel=\"noreferrer "
+"noopener\">Evolve Shop</a>."
+msgstr ""
+
+#: includes/pages/docs.php:38
+msgid ""
+"You can find more Brix tutorials and useful articles on the <a href=\"%s\" "
+"target=\"_blank\" rel=\"noreferrer noopener\">official blog</a>, so make "
+"sure to follow its feed."
+msgstr ""
+
+#: includes/pages/docs.php:47
+msgid ""
+"Subscribe to the <a href=\"%s\" target=\"_blank\" rel=\"noreferrer "
+"noopener\">YouTube playlist</a> to be notified when a new tutorial is "
+"available."
+msgstr ""
+
+#: includes/pages/docs.php:54
+msgid "Read the online docs"
+msgstr ""
+
+#: includes/pages/docs.php:60
+msgid "Video tutorials"
+msgstr ""
+
+#: includes/pages/welcome.php:71
+msgid "Welcome!"
+msgstr ""
+
+#: includes/pages/welcome.php:73
+msgid "Here's some information to get you up and running."
+msgstr ""
+
+#: includes/pages/welcome.php:76
+msgid ""
+"Don' forget to register your copy in order to receive automatic updates and "
+"<a href=\"%s\">start creating</a> with Brix right now!"
+msgstr ""
+
+#: includes/pages/welcome.php:89
+msgid "Read the online documentation and tutorials"
+msgstr ""
+
+#: includes/pages/welcome.php:97
+msgid "We are here for you!"
+msgstr ""
+
+#: includes/pages/welcome.php:104 pro/admin.php:223
+msgid "Registration"
+msgstr ""
+
+#: includes/pages/welcome.php:105
+msgid "Register your product to get automatic updates"
+msgstr ""
+
+#: includes/row.php:14
+msgid "Full"
+msgstr ""
+
+#: includes/section.php:41
+msgid "Define how much should be the section width related to the page content."
+msgstr ""
+
+#: includes/section.php:54
+msgid "Content layout"
+msgstr ""
+
+#: includes/section.php:55
+msgid "Define the distinct content areas that compose the section."
+msgstr ""
+
+#: includes/section.php:64
+msgid "100% viewport height"
+msgstr ""
+
+#: includes/section.php:65
+msgid ""
+"If active, the section minimum height is equal to the browser viewport "
+"height."
+msgstr ""
+
+#: includes/section.php:74
+msgid "Rows alignment"
+msgstr ""
+
+#: includes/section.php:80
+msgid "Middle"
+msgstr ""
+
+#: includes/section.php:81 templates/fields/brix_spacing.php:45
+#: templates/fields/brix_spacing.php:50
+msgid "Bottom"
+msgstr ""
+
+#: includes/section.php:141 templates/admin/section.php:52
+msgid "Edit section"
+msgstr ""
+
+#: includes/templates.php:200 includes/templates.php:268
+msgid "Page templates are complete layouts composed by multiple sections."
+msgstr ""
+
+#: includes/templates.php:203 includes/templates.php:271
+msgid "Section templates are composed by rows and columns."
+msgstr ""
+
+#: includes/templates.php:233 includes/templates.php:301
+msgid "Use this template"
+msgstr ""
+
+#: includes/templates.php:239
+msgid "Export"
+msgstr ""
+
+#: includes/templates.php:350
+msgid "Built-in templates"
+msgstr ""
+
+#: includes/templates.php:352
+msgid "My templates"
+msgstr ""
+
+#: includes/templates.php:358
+msgid "Export all"
+msgstr ""
+
+#: includes/templates.php:360
+msgid "Import"
+msgstr ""
+
+#: includes/templates.php:370 includes/templates.php:378
+#: includes/templates.php:466 includes/templates.php:472
+msgid "Page templates"
+msgstr ""
+
+#: includes/templates.php:371 includes/templates.php:386
+#: includes/templates.php:467 includes/templates.php:478
+msgid "Sections"
+msgstr ""
+
+#: includes/templates.php:461
+msgid ""
+"<strong>You haven't saved any template yet!</strong><br>Start saving your "
+"first template by clicking on the 'Save template' link in the builder "
+"'Layout templates' section."
+msgstr ""
+
+#: includes/templates.php:666
+msgid "Drop files here or click to upload"
+msgstr ""
+
+#: includes/templates.php:719
+msgid "All templates"
+msgstr ""
+
+#: includes/templates.php:759
+msgid "Please specify a file to upload."
+msgstr ""
+
+#: includes/templates.php:821
+msgid "%s templates imported, %s templates skipped and %s errors."
+msgstr ""
+
+#: includes/templates.php:828
+msgid "%s templates imported and %s templates skipped."
+msgstr ""
+
+#: includes/templates.php:835
+msgid "%s templates imported."
+msgstr ""
+
+#: includes/templates.php:845
+msgid "%s templates skipped and %s errors."
+msgstr ""
+
+#: includes/templates.php:851
+msgid "%s templates skipped."
+msgstr ""
+
+#: includes/templates.php:858
+msgid "No templates imported: verify the uploaded file."
+msgstr ""
+
+#: pro/admin.php:38
+msgid "Purchase code"
+msgstr ""
+
+#: pro/admin.php:43
+msgid "Purchase email"
+msgstr ""
+
+#: pro/admin.php:82
+msgid "Data saved correctly, but the domain was not linked."
+msgstr ""
+
+#: pro/admin.php:90
+msgid "We were't able to link your domain. Please check your info, and try again."
+msgstr ""
+
+#: pro/admin.php:140
+msgid "What's new on Brix&#8230;"
+msgstr ""
+
+#: pro/admin.php:190
+msgid "Register your copy in order to receive automatic updates!"
+msgstr ""
+
+#: pro/admin.php:192
+msgid "Register now"
+msgstr ""
+
+#: pro/advanced_tab.php:14 pro/advanced_tab.php:53 pro/advanced_tab.php:85
+#: templates/fields/brix_spacing.php:39
+msgid "Advanced"
+msgstr ""
+
+#: pro/advanced_tab.php:18 pro/advanced_tab.php:57 pro/advanced_tab.php:95
+msgid "Class"
+msgstr ""
+
+#: pro/advanced_tab.php:19
+msgid ""
+"This CSS class name will be associated to the block markup element. Put "
+"just the class name here, not any CSS style: use a custom stylesheet to "
+"target this element via the class name."
+msgstr ""
+
+#: pro/advanced_tab.php:30 pro/advanced_tab.php:106
+msgid "Hide from display"
+msgstr ""
+
+#: pro/advanced_tab.php:31
+msgid "When hidden, the block data will still be editable."
+msgstr ""
+
+#: pro/advanced_tab.php:63 pro/advanced_tab.php:101
+msgid ""
+"Marking this area with a <code>section</code> tag instead of "
+"<code>div</code> will not alter the page appearance but will affect the "
+"document structure and the page SEO."
+msgstr ""
+
+#: pro/advanced_tab.php:89
+msgid "Id"
+msgstr ""
+
+#: pro/advanced_tab.php:91
+msgid ""
+"You'll be able to jump directly to this section adding "
+"<code>#your-id</code> to the window address."
+msgstr ""
+
+#: pro/background.php:11 pro/background.php:26 pro/background.php:41
+msgid "Gradient"
+msgstr ""
+
+#: pro/background.php:56
+msgid "Parallax"
+msgstr ""
+
+#: pro/background.php:80 pro/background.php:106
+msgid "Shift"
+msgstr ""
+
+#: pro/background.php:82 pro/background.php:108
+msgid "The image movement expressed in pixels."
+msgstr ""
+
+#: pro/background.php:141
+msgid "Change for different screen sizes"
+msgstr ""
+
+#: pro/background.php:155
+msgid "You can alter the background appearance on specific media queries."
+msgstr ""
+
+#: pro/blocks/counter/counter_block.php:23
+#: pro/blocks/counter/counter_block.php:95
+msgid "Counter"
+msgstr ""
+
+#: pro/blocks/counter/counter_block.php:39 styles/blocks/team/team.php:15
+msgid "Alignment"
+msgstr ""
+
+#: pro/blocks/counter/counter_block.php:52
+#: pro/blocks/progress_bar/progress_bar_block.php:83
+msgid "Value"
+msgstr ""
+
+#: pro/blocks/counter/counter_block.php:64
+msgid "Prefix"
+msgstr ""
+
+#: pro/blocks/counter/counter_block.php:70
+msgid "Suffix"
+msgstr ""
+
+#: pro/blocks/counter/counter_block.php:97
+msgid "Display an animated counter."
+msgstr ""
+
+#: pro/blocks/list/list_block.php:57
+msgid "Advanced list"
+msgstr ""
+
+#: pro/blocks/progress_bar/progress_bar_block.php:23
+#: pro/blocks/progress_bar/progress_bar_block.php:120
+#: styles/blocks/progress_bar/progress_bar.php:15
+msgid "Progress bar"
+msgstr ""
+
+#: pro/blocks/progress_bar/progress_bar_block.php:40
+msgid "Show value"
+msgstr ""
+
+#: pro/blocks/progress_bar/progress_bar_block.php:41
+msgid "Display the numeric value next to the progress bar."
+msgstr ""
+
+#: pro/blocks/progress_bar/progress_bar_block.php:47
+msgid "Animate values"
+msgstr ""
+
+#: pro/blocks/progress_bar/progress_bar_block.php:53
+#: pro/blocks/progress_bar/progress_bar_block.php:63
+msgid "Data"
+msgstr ""
+
+#: pro/blocks/progress_bar/progress_bar_block.php:122
+msgid "Display numeric values in multiple progress bars."
+msgstr ""
+
+#: pro/blocks/progress_bar/progress_bar_block.php:148
+msgid "with squared borders"
+msgstr ""
+
+#: pro/blocks/progress_bar/progress_bar_block.php:151
+msgid "with rounded borders"
+msgstr ""
+
+#: pro/blocks/team/team_block.php:23 pro/blocks/team/team_block.php:114
+msgid "Team member"
+msgstr ""
+
+#: pro/blocks/team/team_block.php:41
+msgid "Picture source"
+msgstr ""
+
+#: pro/blocks/team/team_block.php:65
+msgid "Picture"
+msgstr ""
+
+#: pro/blocks/team/team_block.php:74
+msgid "Name"
+msgstr ""
+
+#: pro/blocks/team/team_block.php:83
+msgid "Role"
+msgstr ""
+
+#: pro/blocks/team/team_block.php:92
+msgid "Bio"
+msgstr ""
+
+#: pro/blocks/team/team_block.php:116
+msgid "Display information about a person/team member."
+msgstr ""
+
+#: pro/includes/pages/support.php:118
+msgid "Get support"
+msgstr ""
+
+#: pro/includes/pages/support.php:122
+msgid ""
+"We regularly check the compatibility of our products with other components "
+"such as themes and plugins, and it is our care to fix bugs and anomalies "
+"directly referrable to Brix. You can read our support policy <a href=\"%s\" "
+"target=\"_blank\" rel=\"noreferrer noopener\">here</a>."
+msgstr ""
+
+#: pro/includes/pages/support.php:131
+msgid ""
+"Support is provided on the <a href=\"%s\" target=\"_blank\" "
+"rel=\"noreferrer noopener\">Evolve Shop</a> through our ticketing system: "
+"on your dashboard, look for the \"Support\" section, from where you'll be "
+"able to browse tickets or create one."
+msgstr ""
+
+#: pro/includes/pages/support.php:137
+msgid "Go to your dashboard"
+msgstr ""
+
+#: pro/includes/pages/support.php:143
+msgid "System status report"
+msgstr ""
+
+#: pro/includes/pages/support.php:150
+msgid "Why does this matter?"
+msgstr ""
+
+#: pro/includes/pages/support.php:151
+msgid ""
+"This report is a partial snapshot of your installation. Pasting the "
+"contents of the Status Report in support tickets may help to understand "
+"what's going on with your copy of Brix."
+msgstr ""
+
+#: pro/responsive.php:12
+msgid "Define a new breakpoint"
+msgstr ""
+
+#: pro/row-editing.php:11 templates/admin/row.php:69
+msgid "Back to row layout"
+msgstr ""
+
+#: pro/row-editing.php:24 templates/admin/row.php:68 templates/admin/row.php:87
+msgid "Vertical alignment"
+msgstr ""
+
+#: pro/section_appearance.php:14
+msgid "Subsections are equally tall"
+msgstr ""
+
+#: pro/section_appearance.php:15
+msgid ""
+"If active, the content areas that compose the section will have the same "
+"height."
+msgstr ""
+
+#: pro/updater/updater.php:313
+msgid "Update available!"
+msgstr ""
+
+#: pro/updater/updater.php:318
+msgid "What's changed?"
+msgstr ""
+
+#: pro/updater/updater.php:324
+msgid "How to update"
+msgstr ""
+
+#: pro/updater/updater.php:541
+msgid ""
+"An update is available, but you either didn't fill out the <a "
+"href=\"%s\">account options</a>, or your license has expired."
+msgstr ""
+
+#: pro/updater/updater.php:570
+msgid "Update"
+msgstr ""
+
+#: pro/user_roles.php:32
+msgid "User roles"
+msgstr ""
+
+#: pro/user_roles.php:40
+msgid "Additional roles that can create content with Brix"
+msgstr ""
+
+#: pro/user_roles.php:42
+msgid "Administrators have access by default."
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:12 styles/blocks/tabs/tabs.php:12
+msgid "Minimal"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:13 styles/blocks/tabs/tabs.php:13
+msgid "Classic"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:43 styles/blocks/button/button.php:61
+msgid "Label case"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:47 styles/blocks/button/button.php:65
+#: styles/blocks/tabs/tabs.php:47 templates/fields/brix_video_background.php:26
+msgid "Inherit"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:48 styles/blocks/button/button.php:66
+#: styles/blocks/tabs/tabs.php:48
+msgid "Capitalize"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:49 styles/blocks/button/button.php:67
+#: styles/blocks/tabs/tabs.php:49
+msgid "Lowercase"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:50 styles/blocks/button/button.php:68
+#: styles/blocks/tabs/tabs.php:50
+msgid "Uppercase"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:57 styles/blocks/button/button.php:75
+msgid "Label weight"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:65 styles/blocks/button/button.php:83
+#: styles/blocks/tabs/tabs.php:65
+msgid "Regular (400)"
+msgstr ""
+
+#: styles/blocks/accordion/accordion.php:68 styles/blocks/button/button.php:86
+#: styles/blocks/tabs/tabs.php:68
+msgid "Bold (700)"
+msgstr ""
+
+#: styles/blocks/button/button.php:14
+msgid "Button shape"
+msgstr ""
+
+#: styles/blocks/button/button.php:18
+#: styles/blocks/feature_box/feature_box.php:26
+#: styles/blocks/progress_bar/progress_bar.php:42
+msgid "Squared borders"
+msgstr ""
+
+#: styles/blocks/button/button.php:19
+#: styles/blocks/feature_box/feature_box.php:27
+msgid "Rounded border"
+msgstr ""
+
+#: styles/blocks/button/button.php:26
+msgid "Shape border radius"
+msgstr ""
+
+#: styles/blocks/button/button.php:36
+msgid "Label size"
+msgstr ""
+
+#: styles/blocks/button/button.php:41 styles/blocks/list/list.php:19
+msgid "Micro"
+msgstr ""
+
+#: styles/blocks/button/button.php:42
+#: styles/blocks/feature_box/feature_box.php:42 styles/blocks/list/list.php:20
+#: styles/blocks/progress_bar/progress_bar.php:20
+msgid "Small"
+msgstr ""
+
+#: styles/blocks/button/button.php:44
+msgid "Full width"
+msgstr ""
+
+#: styles/blocks/button/button.php:45
+#: styles/blocks/feature_box/feature_box.php:44 styles/blocks/list/list.php:22
+#: styles/blocks/progress_bar/progress_bar.php:22
+msgid "Custom"
+msgstr ""
+
+#: styles/blocks/button/button.php:52
+msgid "Label font size"
+msgstr ""
+
+#: styles/blocks/button/button.php:96
+msgid "Button alignment"
+msgstr ""
+
+#: styles/blocks/button/button.php:135
+msgid "Text color"
+msgstr ""
+
+#: styles/blocks/button/button.php:148
+msgid "Border style"
+msgstr ""
+
+#: styles/blocks/button/button.php:153
+#: styles/blocks/feature_box/feature_box.php:84
+msgid "No border"
+msgstr ""
+
+#: styles/blocks/button/button.php:154 styles/blocks/divider/divider.php:12
+#: styles/blocks/feature_box/feature_box.php:85
+msgid "Solid"
+msgstr ""
+
+#: styles/blocks/button/button.php:155
+#: styles/blocks/feature_box/feature_box.php:86
+msgid "Dashed"
+msgstr ""
+
+#: styles/blocks/button/button.php:156
+#: styles/blocks/feature_box/feature_box.php:87
+msgid "Dotted"
+msgstr ""
+
+#: styles/blocks/button/button.php:157
+#: styles/blocks/feature_box/feature_box.php:88
+msgid "Double"
+msgstr ""
+
+#: styles/blocks/button/button.php:158
+#: styles/blocks/feature_box/feature_box.php:89
+msgid "3D grooved. The effect depends on the border-color value"
+msgstr ""
+
+#: styles/blocks/button/button.php:159
+#: styles/blocks/feature_box/feature_box.php:90
+msgid "3D ridged. The effect depends on the border-color value"
+msgstr ""
+
+#: styles/blocks/button/button.php:160
+#: styles/blocks/feature_box/feature_box.php:91
+msgid "3D inset. The effect depends on the border-color value"
+msgstr ""
+
+#: styles/blocks/button/button.php:161
+#: styles/blocks/feature_box/feature_box.php:92
+msgid "3D outset. The effect depends on the border-color value"
+msgstr ""
+
+#: styles/blocks/button/button.php:168
+msgid "Border size"
+msgstr ""
+
+#: styles/blocks/button/button.php:179
+msgid "Border color"
+msgstr ""
+
+#: styles/blocks/divider/divider.php:11
+msgid "Invisible"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:14 styles/blocks/list/list.php:70
+msgid "Icon spacing"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:15
+msgid "Space between icon and content"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:21
+msgid "Icon box shape"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:28 styles/blocks/team/team.php:33
+msgid "Circle"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:35
+msgid "Icon box padding"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:51
+msgid "Icon box padding size"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:60
+msgid "Icon box background color"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:69
+msgid "Icon box shape border radius"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:78
+msgid "Icon box border style"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:99
+msgid "Icon box border size"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:110
+msgid "Icon box border color"
+msgstr ""
+
+#: styles/blocks/feature_box/feature_box.php:133
+msgid "Boxed icon"
+msgstr ""
+
+#: styles/blocks/icon/icon.php:14
+msgid "Icon alignment"
+msgstr ""
+
+#: styles/blocks/list/list.php:14
+msgid "List elements size"
+msgstr ""
+
+#: styles/blocks/list/list.php:29
+msgid "List elements font size"
+msgstr ""
+
+#: styles/blocks/list/list.php:39
+msgid "List elements alignment"
+msgstr ""
+
+#: styles/blocks/list/list.php:51
+msgid "Vertical spacing"
+msgstr ""
+
+#: styles/blocks/list/list.php:52
+msgid "Vertical spacing between list elements."
+msgstr ""
+
+#: styles/blocks/list/list.php:71
+msgid "Horizontal spacing between icon and list element text."
+msgstr ""
+
+#: styles/blocks/progress_bar/progress_bar.php:30
+msgid "Progress bar size"
+msgstr ""
+
+#: styles/blocks/progress_bar/progress_bar.php:39
+msgid "Border shape"
+msgstr ""
+
+#: styles/blocks/progress_bar/progress_bar.php:43
+msgid "Rounded borders"
+msgstr ""
+
+#: styles/blocks/tabs/tabs.php:31
+msgid "Navigation alignment"
+msgstr ""
+
+#: styles/blocks/tabs/tabs.php:43
+msgid "Navigation label case"
+msgstr ""
+
+#: styles/blocks/tabs/tabs.php:57
+msgid "Navigation label weight"
+msgstr ""
+
+#: styles/blocks/team/team.php:28
+msgid "Image shape"
+msgstr ""
+
+#: styles/blocks/team/team.php:34
+msgid "Rounded corners"
+msgstr ""
+
+#: styles/blocks/team/team.php:42
+msgid "Image shape radius"
+msgstr ""
+
+#: styles/blocks/text/text.php:14
+msgid "Fit embeds"
+msgstr ""
+
+#: styles/blocks/text/text.php:15
+msgid "If checked, embeds will take the whole horizontal space available."
+msgstr ""
+
+#: styles/includes/column.php:55
+msgid "Arrows"
+msgstr ""
+
+#: styles/includes/column.php:56
+msgid "No style"
+msgstr ""
+
+#: styles/includes/helpers.php:23
+msgid "Effect"
+msgstr ""
+
+#: styles/includes/helpers.php:24
+msgid "The entrance effect when the element will become visible in the viewport."
+msgstr ""
+
+#: styles/includes/helpers.php:29
+msgid "No effect"
+msgstr ""
+
+#: styles/includes/helpers.php:30
+msgid "Fade in"
+msgstr ""
+
+#: styles/includes/helpers.php:31
+msgid "Fade and slide from top"
+msgstr ""
+
+#: styles/includes/helpers.php:32
+msgid "Fade and slide from right"
+msgstr ""
+
+#: styles/includes/helpers.php:33
+msgid "Fade and slide from bottom"
+msgstr ""
+
+#: styles/includes/helpers.php:34
+msgid "Fade and slide from left"
+msgstr ""
+
+#: styles/includes/helpers.php:41
+msgid "Transition speed"
+msgstr ""
+
+#: styles/includes/helpers.php:42 styles/includes/helpers.php:59
+msgid "Expressed in seconds."
+msgstr ""
+
+#: styles/includes/helpers.php:58
+msgid "Transition delay"
+msgstr ""
+
+#: styles/includes/helpers.php:75
+msgid "Easing"
+msgstr ""
+
+#: styles/includes/helpers.php:76
+msgid "The easing of the transition effect."
+msgstr ""
+
+#: styles/includes/helpers.php:80
+msgid "Linear"
+msgstr ""
+
+#: styles/includes/helpers.php:81
+msgid "Ease"
+msgstr ""
+
+#: styles/includes/helpers.php:82
+msgid "Ease-in-quad"
+msgstr ""
+
+#: styles/includes/helpers.php:83
+msgid "Ease-in-cubic"
+msgstr ""
+
+#: styles/includes/helpers.php:84
+msgid "Ease-in-quart"
+msgstr ""
+
+#: styles/includes/helpers.php:85
+msgid "Ease-in-quint"
+msgstr ""
+
+#: styles/includes/helpers.php:86
+msgid "Ease-in-sine"
+msgstr ""
+
+#: styles/includes/helpers.php:87
+msgid "Ease-in-expo"
+msgstr ""
+
+#: styles/includes/helpers.php:88
+msgid "Ease-in-circ"
+msgstr ""
+
+#: styles/includes/helpers.php:89
+msgid "Ease-in-back"
+msgstr ""
+
+#: styles/includes/helpers.php:90
+msgid "Ease-out-quad"
+msgstr ""
+
+#: styles/includes/helpers.php:91
+msgid "Ease-out-cubic"
+msgstr ""
+
+#: styles/includes/helpers.php:92
+msgid "Ease-out-quart"
+msgstr ""
+
+#: styles/includes/helpers.php:93
+msgid "Ease-out-quint"
+msgstr ""
+
+#: styles/includes/helpers.php:94
+msgid "Ease-out-sine"
+msgstr ""
+
+#: styles/includes/helpers.php:95
+msgid "Ease-out-expo"
+msgstr ""
+
+#: styles/includes/helpers.php:96
+msgid "Ease-out-circ"
+msgstr ""
+
+#: styles/includes/helpers.php:97
+msgid "Ease-out-back"
+msgstr ""
+
+#: styles/includes/helpers.php:98
+msgid "Ease-in-out-quad"
+msgstr ""
+
+#: styles/includes/helpers.php:99
+msgid "Ease-in-out-cubic"
+msgstr ""
+
+#: styles/includes/helpers.php:100
+msgid "Ease-in-out-quart"
+msgstr ""
+
+#: styles/includes/helpers.php:101
+msgid "Ease-in-out-quint"
+msgstr ""
+
+#: styles/includes/helpers.php:102
+msgid "Ease-in-out-sine"
+msgstr ""
+
+#: styles/includes/helpers.php:103
+msgid "Ease-in-out-expo"
+msgstr ""
+
+#: styles/includes/helpers.php:104
+msgid "Ease-in-out-circ"
+msgstr ""
+
+#: styles/includes/helpers.php:105
+msgid "Ease-in-out-back"
+msgstr ""
+
+#: templates/admin/block.php:19
+msgid "Non existing \"%s\" block."
+msgstr ""
+
+#: templates/admin/block.php:49 templates/admin/js/block.php:9
+msgid "Clone"
+msgstr ""
+
+#: templates/admin/column.php:43 templates/admin/js/column.php:2
+msgid "Merge columns"
+msgstr ""
+
+#: templates/admin/column.php:49 templates/admin/js/column.php:8
+msgid "Split column"
+msgstr ""
+
+#: templates/admin/column.php:54 templates/admin/js/column.php:13
+msgid "Carousel mode enabled"
+msgstr ""
+
+#: templates/admin/column.php:107 templates/admin/js/column.php:23
+msgid "Add content"
+msgstr ""
+
+#: templates/admin/row.php:38
+msgid "Change the row layout"
+msgstr ""
+
+#: templates/admin/row.php:38 templates/admin/row.php:125
+msgid "Show all"
+msgstr ""
+
+#: templates/admin/row.php:89
+msgid "Ok"
+msgstr ""
+
+#: templates/admin/row.php:102
+msgid "Edit row"
+msgstr ""
+
+#: templates/admin/row.php:104
+msgid "Duplicate row"
+msgstr ""
+
+#: templates/admin/row.php:125
+msgid "Row layout."
+msgstr ""
+
+#: templates/admin/row.php:147
+msgid "Or"
+msgstr ""
+
+#: templates/admin/row.php:153
+msgid "Insert template"
+msgstr ""
+
+#: templates/admin/section.php:55 templates/admin/section.php:56
+msgid "Duplicate section"
+msgstr ""
+
+#: templates/admin/section.php:62 templates/admin/section.php:64
+msgid "Save section template"
+msgstr ""
+
+#: templates/admin/section.php:68 templates/admin/section.php:70
+msgid "Replace section with template"
+msgstr ""
+
+#: templates/admin/section.php:120
+msgid "Section width"
+msgstr ""
+
+#: templates/admin/section.php:134
+msgid "Move up"
+msgstr ""
+
+#: templates/admin/section.php:135
+msgid "Move down"
+msgstr ""
+
+#: templates/admin/section.php:182 templates/admin/section.php:183
+msgid "Add row"
+msgstr ""
+
+#: templates/fields/accordion.php:37
+msgid "Add toggle"
+msgstr ""
+
+#: templates/fields/brix_background.php:53
+msgid "Same as desktop"
+msgstr ""
+
+#: templates/fields/brix_background.php:81
+#: templates/fields/brix_video_background.php:43
+msgid "Overlay"
+msgstr ""
+
+#: templates/fields/brix_spacing.php:34
+msgid "Context"
+msgstr ""
+
+#: templates/fields/brix_spacing.php:35
+msgid "Margin"
+msgstr ""
+
+#: templates/fields/brix_spacing.php:37
+msgid "Padding"
+msgstr ""
+
+#: templates/fields/brix_spacing.php:143
+msgid "Advanced controls"
+msgstr ""
+
+#: templates/fields/builder_breakpoints.php:79
+msgid "Sections and columns go full width under this breakpoint."
+msgstr ""
+
+#: templates/fields/tabs.php:32
+msgid "Add tab"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Brix Builder"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://brixbuilder.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A new way of managing content in WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Evolve"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://justevolve.it"
+msgstr ""
+
+#: brix.php:188
+msgctxt "responsive breakpoint"
+msgid "Mobile"
+msgstr ""
+
+#: brix.php:189
+msgctxt "responsive breakpoint"
+msgid "Tablet"
+msgstr ""
+
+#: brix.php:599
+msgctxt "builder reset confirm"
+msgid "Are you sure?"
+msgstr ""
+
+#: brix.php:611
+msgctxt "responsive behavior"
+msgid "Default"
+msgstr ""
+
+#: brix.php:612
+msgctxt "responsive behavior"
+msgid "Hide"
+msgstr ""
+
+#: fields/brix_breakpoints.php:80
+msgctxt "breakpoint label"
+msgid "Label"
+msgstr ""
+
+#: fields/brix_breakpoints.php:89
+msgctxt "breakpoint context"
+msgid "Context"
+msgstr ""
+
+#: fields/brix_breakpoints.php:102
+msgctxt "breakpoint media query"
+msgid "Media query"
+msgstr ""
+
+#: fields/brix_breakpoints.php:114
+msgctxt "breakpoint gutter"
+msgid "Gutter"
+msgstr ""
+
+#: fields/brix_breakpoints.php:120
+msgctxt "breakpoint baseline"
+msgid "Baseline"
+msgstr ""
+
+#: fields/brix_breakpoints.php:146 templates/fields/builder_breakpoints.php:36
+msgctxt "reset breakpoint"
+msgid "Reset"
+msgstr ""
+
+#: fields/brix_breakpoints.php:147 templates/fields/builder_breakpoints.php:27
+msgctxt "remove breakpoint"
+msgid "Remove"
+msgstr ""
+
+#: fw/classes/core/brix_media_manager.php:52
+msgctxt "standard screen density"
+msgid "Standard"
+msgstr ""
+
+#: fw/classes/core/brix_media_manager.php:55
+msgctxt "standard desktop media query"
+msgid "Desktop"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:75
+msgctxt "jquery ui datepicker short day name"
+msgid "Su"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:76
+msgctxt "jquery ui datepicker short day name"
+msgid "Mo"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:77
+msgctxt "jquery ui datepicker short day name"
+msgid "Tu"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:78
+msgctxt "jquery ui datepicker short day name"
+msgid "We"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:79
+msgctxt "jquery ui datepicker short day name"
+msgid "Th"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:80
+msgctxt "jquery ui datepicker short day name"
+msgid "Fr"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:81
+msgctxt "jquery ui datepicker short day name"
+msgid "Sa"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:111
+msgctxt "jquery ui datepicker prev text"
+msgid "Prev"
+msgstr ""
+
+#: fw/classes/core/fields/brix_date_field.php:112
+msgctxt "jquery ui datepicker next text"
+msgid "Next"
+msgstr ""
+
+#: fw/classes/core/fields/brix_icon_field.php:63
+msgctxt "no icons found"
+msgid "Nothing found"
+msgstr ""
+
+#: fw/classes/core/fields/brix_icon_field.php:64
+msgctxt "one icon found"
+msgid "%s found"
+msgstr ""
+
+#: fw/classes/core/fields/brix_icon_field.php:65
+msgctxt "multiple icons found"
+msgid "%s found"
+msgstr ""
+
+#: fw/includes/admin/fields.php:398
+msgctxt "save color preset"
+msgid "Save"
+msgstr ""
+
+#: fw/includes/icons.php:244
+msgctxt "icon search"
+msgid "Search&hellip;"
+msgstr ""
+
+#: includes/options.php:33
+msgctxt "post type options"
+msgid "Post types"
+msgstr ""
+
+#: pro/user_roles.php:28
+msgctxt "user roles options"
+msgid "User roles"
+msgstr ""
